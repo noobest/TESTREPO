@@ -1,0 +1,17 @@
+li:hover {
+	cursor: pointer;
+}
+
+div {
+	display: flex;
+	flex-direction: row;
+}
+
+.done {
+	text-decoration: line-through;
+}
+
+.delbutton {
+	background-color: red;
+	color: whitesmoke;
+}
